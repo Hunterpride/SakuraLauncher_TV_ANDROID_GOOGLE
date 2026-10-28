@@ -1,0 +1,12 @@
+toolchain/
+build/
+*.zip
+*.raw.*
+signing.jks
+.DS_Store
+Thumbs.db
+*.log
+local.properties
+.idea/
+*.iml
+captures/
